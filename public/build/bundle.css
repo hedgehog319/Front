@@ -1,0 +1,13 @@
+.Layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.Layout__main {
+  flex: 1;
+}
+
+.mytext {
+  color: blue;
+  font-family: "Montserrat";
+}
